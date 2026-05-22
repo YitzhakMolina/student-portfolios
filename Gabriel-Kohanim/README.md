@@ -6,25 +6,25 @@
 
 ##  Topic Overview
 
-This project explores **Vision-Language-Action (VLA) models** — a class of AI systems that connect large language models directly to physical robot control. The central case study is **RT-2 (Robotics Transformer 2)**, published by Google DeepMind in 2023, which was the first model to prove that internet-scale language pretraining could transfer to real-world robotic tasks.
+This project explores **Vision-Language-Action (VLA) models**  a class of AI systems that connect large language models directly to physical robot control. The central case study is **RT-2 (Robotics Transformer 2)**, published by Google DeepMind in 2023, which was the first model to prove that internet-scale language pretraining could transfer to real-world robotic tasks.
 
-The presentation also covers the current state of humanoid robotics in 2026, including the **Beijing E-Town Half-Marathon** (April 2026), where a humanoid robot completed a 21km course faster than any human world record — autonomously.
+The presentation also covers the current state of humanoid robotics in 2026, including the **Beijing E-Town Half-Marathon** (April 2026), where a humanoid robot completed a 21km course faster than any human world record, autonomously.
 
 ---
 
 ##  Key Concepts Covered
 
-- **Classical robotics vs. LLM-driven robotics** — why hardcoded control pipelines fail at generalization
-- **Vision-Language-Action (VLA) models** — how RT-2 unifies perception, language, and action into one transformer
-- **Action tokenization** — representing robot motor commands as discrete text tokens
-- **Chain-of-thought reasoning in physical tasks** — how RT-2 plans before it acts
-- **The embodied AI landscape in 2026** — Gemini Robotics, Unitree, Agibot, and the US-China robotics race
+- **Classical robotics vs. LLM-driven robotics** —> why hardcoded control pipelines fail at generalization
+- **Vision-Language-Action (VLA) models** —> how RT-2 unifies perception, language, and action into one transformer
+- **Action tokenization** —> representing robot motor commands as discrete text tokens
+- **Chain-of-thought reasoning in physical tasks** —> how RT-2 plans before it acts
+- **The embodied AI landscape in 2026** —> Gemini Robotics, Unitree, Agibot, and the US-China robotics race
 
 ---
 
 ##  Code Snippets
 
-### Classical control — the brittleness problem
+### Classical control, brittleness problem
 ```python
 # Classical robot: rigid, task-specific
 if object_label == "cup":
