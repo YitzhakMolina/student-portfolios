@@ -6,7 +6,7 @@
 
 **Course**: CS131 Discrete Structure
 
-/br
+
 **📌 About the Project**
 
 This project looks at how Artificial Intelligence (AI) and Machine Learning are changing the way we analyze data.
