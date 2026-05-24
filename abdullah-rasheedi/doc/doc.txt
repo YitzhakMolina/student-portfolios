@@ -1,1 +1,7 @@
 
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai-and-how-does-it-differ-from-traditional-programming/
+https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/
+https://www.onyxgs.com/blog/how-neural-networks-mimic-human-brain
+https://medium.com/data-science/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc
+https://www.youtube.com/watch?v=KMHkbXzHn7s
+https://medium.com/intro-zero/getting-started-with-transformers-pipelines-and-the-hugging-face-model-hub-4bd743c3f0eb
